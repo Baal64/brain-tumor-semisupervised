@@ -1,0 +1,12 @@
+# données brutes
+data/
+*.jpg
+*.png
+
+# fichiers Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
